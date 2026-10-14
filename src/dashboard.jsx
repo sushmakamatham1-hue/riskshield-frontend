@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./dashboard.css";
 
 import ThreatScanner from "./ThreatScanner.jsx";
-import Alerts from "./Alerts.jsx";
+import Alerts from "./alerts.jsx";
 import Investigation from "./Investigation.jsx";
 import Reports from "./Reports.jsx";
 import Settings from "./Settings.jsx";

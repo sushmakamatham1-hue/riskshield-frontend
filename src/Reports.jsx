@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./reports.css";
+import "./Reports.css";
 
 const reports = [
   {
