@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./settings.css";
+import "./Settings.css";
 
 export default function Settings() {
   const [emailAlerts, setEmailAlerts] = useState(true);
